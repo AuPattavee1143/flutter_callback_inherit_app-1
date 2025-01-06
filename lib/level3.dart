@@ -10,7 +10,7 @@ class Level3 extends StatelessWidget {
     return ElevatedButton(  
        style: ElevatedButton.styleFrom(
               backgroundColor: Colors.blueGrey,
-              foregroundColor: const Color.fromARGB(255, 253, 133, 173),
+              foregroundColor: Colors.white,
               padding: const EdgeInsets.symmetric(horizontal: 20,vertical: 12),
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10))
             ),    
